@@ -1,0 +1,3 @@
+Since 2017, RSNA has sponsored and organized a series of medical imaging AI challenge competitions. These competitions has featured annotated ground truth datasets assembled by RSNA in collaboration with research sites around the world that have contributed imaging data and expert radiologists, many recruited by their radiologic subspecialty societies, who have provided annotations of that imaging data.
+
+RSNA is making these datasets (images and annotations) available for download and use through the AWS Open Data Sponsorship program. The wiki associated with this repository provides information for users of the datasets. The entry for each of the published datasets includes a general description of the dataset, licensing information and a brief tutorial for users.
